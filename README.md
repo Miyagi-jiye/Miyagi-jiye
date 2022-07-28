@@ -1,10 +1,9 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miyagi-jiye)](https://github.com/Miyagi-jiye) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miyagi-jiye&show_icons=true&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miyagi-jiye&show_icons=true&theme=buefy)
 
 
 
 
-<!--
 **Miyagi-jiye/Miyagi-jiye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
