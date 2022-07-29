@@ -17,9 +17,13 @@
 <img src="https://img.shields.io/badge/Webpack-%231e72b3.svg?logo=Webpack&logoColor=white&style=flat-square" alt="Webpack" /> 
 <img src="https://img.shields.io/badge/Vite-%23000000.svg?logo=vite&logoColor=blue&style=flat-square" alt="Webpack" >
 
-**Miyagi-jiye/Miyagi-jiye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**工具**
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/Visual%20studio%20code-%230078d7.svg?logo=visual-studio-code&logoColor=white&style=flat-square" alt="Visual Studio Code" />
+<img src="https://img.shields.io/badge/Github-%23000000.svg?logo=github&logoColor=white&style=flat-square" alt="Github" /> 
+<img src="https://img.shields.io/badge/Photoshop-%2331a8ff.svg?logo=adobe-photoshop&logoColor=white&style=flat-square" alt="Photoshop" />
+
+**Miyagi-jiye/Miyagi-jiye** 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
