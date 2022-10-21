@@ -19,7 +19,7 @@
 </p>
 
 <details>
-<summary align="center"><b>我的简历</b></summary><br>
+<summary align="center"><b>我的信息</b></summary><br>
   
 **关于我** 
 
@@ -44,6 +44,7 @@
 <img src="https://img.shields.io/badge/Webpack-%231e72b3.svg?logo=Webpack&logoColor=white&style=flat-square" alt="Webpack" /> 
 <img src="https://img.shields.io/badge/Vite-%23000000.svg?logo=vite&logoColor=blue&style=flat-square" alt="Vite" >
 <img src="https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=Less&logoColor=white" alt="Less"/>
+<img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
 
 **工具**
 
