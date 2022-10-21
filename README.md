@@ -14,6 +14,8 @@
     <code> <a href="https://www.zhihu.com/"> <img height="20" src="https://user-images.githubusercontent.com/46062972/190096127-e3cadf80-6858-4ae4-981c-632246d7b82f.png"></a></code> &nbsp;
     <code> <a href="https://weibo.com/"> <img height="20" src="https://user-images.githubusercontent.com/46062972/190096532-03e4290e-b88d-49c1-acbb-99f700b3b7ed.png"></a></code> &nbsp;
     <code> <a href="https://space.bilibili.com/24772083"> <img height="20" src="https://user-images.githubusercontent.com/46062972/194840497-22835c48-f50b-483e-ad6c-98548d463944.png"></a></code> &nbsp;
+    <br/><br/>
+    <a href="https://alili.tech"><img src="https://profile-counter.glitch.me/Miyagi-jiye/count.svg" /></a>
 </p>
 
 **关于我** 
