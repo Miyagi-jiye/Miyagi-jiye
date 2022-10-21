@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm miyagi-jiye 👋</h1>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=5000&center=true&width=800&height=40&lines=%E4%BB%8E%E7%90%86%E8%AE%BA%E4%B8%8A%E8%AE%B2%EF%BC%8C%E7%90%86%E8%AE%BA%E5%92%8C%E5%AE%9E%E8%B7%B5%E4%B9%8B%E9%97%B4%E6%B2%A1%E6%9C%89%E5%8C%BA%E5%88%AB%E3%80%82%E4%BD%86%E5%9C%A8%E5%AE%9E%E8%B7%B5%E4%B8%AD%EF%BC%8C%E8%BF%99%E6%98%AF%E6%9C%89%E5%8C%BA%E5%88%AB%E7%9A%84%E3%80%82" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=5000&center=true&width=1200&height=40&lines=%E4%BB%8E%E7%90%86%E8%AE%BA%E4%B8%8A%E8%AE%B2%EF%BC%8C%E7%90%86%E8%AE%BA%E5%92%8C%E5%AE%9E%E8%B7%B5%E4%B9%8B%E9%97%B4%E6%B2%A1%E6%9C%89%E5%8C%BA%E5%88%AB%E3%80%82%E4%BD%86%E5%9C%A8%E5%AE%9E%E8%B7%B5%E4%B8%AD%EF%BC%8C%E8%BF%99%E6%98%AF%E6%9C%89%E5%8C%BA%E5%88%AB%E7%9A%84%E3%80%82" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -18,6 +18,9 @@
     <a href="https://alili.tech"><img src="https://profile-counter.glitch.me/Miyagi-jiye/count.svg" /></a>
 </p>
 
+<details>
+<summary align="center"><b>我的简历</b></summary><br>
+  
 **关于我** 
 
 - 🔭 I’m currently working on ...
@@ -57,3 +60,11 @@
 **Github动态**
 
 <img align="center" style="width:100%;" src="https://activity-graph.herokuapp.com/graph?username=Miyagi-jiye&theme=react-dark&hide_border=true&area=true" />
+
+<br>
+</details>
+
+<details>
+<summary align="center"><b>"又偷看人家主页,直接点关注啊"</b></summary><br>
+<div align="center"><img src="https://user-images.githubusercontent.com/26431026/167385898-1fecf0ad-8560-4e31-bcf1-5df5ba2842f1.png"></div>
+</details>
