@@ -35,7 +35,7 @@
 <img style="width:100%;border-radius:10px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 
 <p style="font-size:1.2rem;font-weight:bold;">Github奖杯</p>
-<img  style="width:100%;border-radius:10px" src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=false" />
+<img  style="width:100%;border-radius:10px" src="https://github-profile-trophy.vercel.app/?username=Miyagi-jiye&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=false" />
 </div>
 <br/>
 <!-- 折叠栏 -->
