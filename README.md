@@ -63,6 +63,9 @@
 
 <img align="center" style="width:100%;" src="https://activity-graph.herokuapp.com/graph?username=Miyagi-jiye&theme=react-dark&hide_border=true&area=true" />
 
+**Github Actions** 
+
+<img align="center" style="width:100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=Miyagi-jiye&theme=dark&hide_border=true" />
 <br>
 </details>
 
