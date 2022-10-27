@@ -61,17 +61,6 @@
           <br/>
           <b><p>人生格言</p></b>
           <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=理论上，理论和实践没有区别。但实践上，是有区别的。">  
-          <!-- 折叠栏 -->
-          <details>
-          <summary><b>我的信息</b></summary>
-          <div align="center">测试内容</div>
-          </details>
-          <details>
-          <br/>
-          <summary><b>看啥呢？</b></summary>
-          <br>
-          <div align="center"><img src="https://user-images.githubusercontent.com/26431026/167385898-1fecf0ad-8560-4e31-bcf1-5df5ba2842f1.png"></div>
-          </details>
           <br/>
         </td>
         <td style="width:50%;vertical-align: top;">
@@ -83,6 +72,15 @@
             <img style="width:100%;border-radius:10px" src="https://github-readme-stats.vercel.app/api?username=Miyagi-jiye&show_icons=true&theme=buefy" />
             <b><p>Github Actions</p></b>
             <img style="width:100%;border-radius:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=Miyagi-jiye&theme=dark&hide_border=true" />
+            <!-- 折叠栏 -->
+          <details>
+              <summary><b>个人简历</b></summary>
+              <div align="center">略...</div>
+          </details>
+          <details>
+              <summary><b>看啥呢？</b></summary>
+              <div align="center"><img src="https://user-images.githubusercontent.com/26431026/167385898-1fecf0ad-8560-4e31-bcf1-5df5ba2842f1.png"></div>
+          </details>
           </div>
         </td>
     </tr>
