@@ -18,7 +18,7 @@
 <table style="width:100%;margin:0 auto" border="0">
     <tr>
       <td align="center" colspan="2">
-    <a href="https://alili.tech"><img style="border-radius:6px" src="https://profile-counter.glitch.me/Miyagi-jiye/count.svg" /></a>
+        <img src="https://profile-counter.glitch.me/Miyagi-jiye/count.svg" />
       </td>
     </tr>
     <tr>
@@ -59,6 +59,8 @@
           <img src="https://img.shields.io/badge/-Git-EF5032?style=flat-square&logo=git&logoColor=white"/>
           <br/>
           <br/>
+          <b><p>人生格言</p></b>
+          <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=理论上，理论和实践没有区别。但实践上，是有区别的。">  
           <!-- 折叠栏 -->
           <details>
           <summary><b>我的信息</b></summary>
@@ -89,11 +91,10 @@
 <b><p>Github 动态</p></b>
 <img style="width:100%;" src="https://activity-graph.herokuapp.com/graph?username=Miyagi-jiye&theme=react-dark&hide_border=true&area=true" />
 
-<b><p>名言名句</p></b>
-<img style="width:100%;border-radius:10px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+
 
 <b><p>Github 奖杯</p></b>
-<img  style="width:100%;border-radius:10px" src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=false" />
+<img style="width:100%;border-radius:10px" src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=false" />
 
 </div>
 <br/>
