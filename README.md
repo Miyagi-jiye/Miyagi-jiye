@@ -18,7 +18,7 @@
 <table style="width:100%;margin:0 auto" border="0">
     <tr>
       <td align="center" colspan="2">
-        <img src="https://count.getloli.com/get/@Miyagi-jiye" alt="https://count.getloli.com/" />
+        <img src="https://count.getloli.com/get/@Miyagi-jiye?theme=rule34" alt="https://count.getloli.com/" />
       </td>
     </tr>
     <tr>
