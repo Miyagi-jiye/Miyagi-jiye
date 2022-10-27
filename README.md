@@ -19,10 +19,9 @@
 </p>
 
 <!-- 总体 -->
-<div style="display:flex;gap:20px;flex-wrap: wrap">
-<table style="width:100%;margin:0 auto;">
+<table style="width:100%;margin:0 auto" border="0">
     <tr>
-        <td style="width:50%;vertical-align:top;">
+        <td style="width:50%;">
           <!-- 左边 -->
           <b><p>关于我</p></b>
           <ul>
@@ -35,6 +34,7 @@
             <li>😄 Pronouns: ...</li>
             <li>⚡ Fun fact: ...</li>
           </ul>
+          <br/>
           <b><p>技能</p></b>
           <img src="https://img.shields.io/badge/Html5-%23e34f26.svg?logo=html5&logoColor=white&style=flat-square" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-%231572b6.svg?logo=css3&logoColor=white&style=flat-square" alt="CSS3" />
           <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat-square" alt="JavaScript" />
@@ -47,13 +47,29 @@
           <img src="https://img.shields.io/badge/Vite-%23000000.svg?logo=vite&logoColor=blue&style=flat-square" alt="Vite" >
           <img src="https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=Less&logoColor=white" alt="Less"/>
           <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+          <br/>
+          <br/>
           <b><p>工具</p></b>
           <img src="https://img.shields.io/badge/Visual%20studio%20code-%230078d7.svg?logo=visual-studio-code&logoColor=white&style=flat-square" alt="Visual Studio Code" /> <img src="https://img.shields.io/badge/Github-%23000000.svg?logo=github&logoColor=white&style=flat-square" alt="Github" />
           <img src="https://img.shields.io/badge/Photoshop-%2331a8ff.svg?logo=adobe-photoshop&logoColor=white&style=flat-square" alt="Photoshop" />
+          <br/>
+          <br/>
+          <!-- 折叠栏 -->
+          <details>
+          <summary><b>我的信息</b></summary>
+          <div>测试内容</div>
+          </details>
+          <details>
+          <br/>
+          <summary><b>看啥呢？</b></summary>
+          <br>
+          <div align="center"><img src="https://user-images.githubusercontent.com/26431026/167385898-1fecf0ad-8560-4e31-bcf1-5df5ba2842f1.png"></div>
+          </details>
+          <br/>
         </td>
         <td style="width:50%">
           <!-- 右边 -->
-          <div style="display:flex;flex-direction:column;flex:1;min-width:250px;vertical-align:top;">
+          <div style="display:flex;flex-direction:column;">
             <b><p>Github语言</p></b>
             <img style="width:100%;border-radius:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miyagi-jiye&layout=compact&theme=buefy" />
             <b><p>Github状态</p></b>
@@ -63,10 +79,7 @@
           </div>
         </td>
     </tr>
-
 </table>
-
-</div>
 
 <b><p>Github 动态</p></b>
 <img style="width:100%;border-radius:10px" src="https://activity-graph.herokuapp.com/graph?username=Miyagi-jiye&theme=react-dark&hide_border=true&area=true" />
@@ -79,44 +92,3 @@
 
 </div>
 <br/>
-<!-- 折叠栏 -->
-<details>
-<summary align="center"><b>我的信息</b></summary><br>
-  
-**关于我**
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-**技能**
-
-<img src="https://img.shields.io/badge/Html5-%23e34f26.svg?logo=html5&logoColor=white&style=flat-square" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-%231572b6.svg?logo=css3&logoColor=white&style=flat-square" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat-square" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Node.js-%2343853d.svg?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" />
-<img src="https://img.shields.io/badge/NPM-%23cb0000.svg?logo=npm&logoColor=white&style=flat-square" alt="npm" />
-<img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=Vue.js&logoColor=%234fc08d&style=flat-square" alt="Vue.js" />
-<img src="https://img.shields.io/badge/React-%2320232a.svg?logo=React&logoColor=%2361dafb&style=flat-square" alt="React" />
-<img src="https://img.shields.io/badge/Babel-%23323330.svg?logo=babel&logoColor=%23f9dc3e&style=flat-square" alt="Babel" />
-<img src="https://img.shields.io/badge/Webpack-%231e72b3.svg?logo=Webpack&logoColor=white&style=flat-square" alt="Webpack" />
-<img src="https://img.shields.io/badge/Vite-%23000000.svg?logo=vite&logoColor=blue&style=flat-square" alt="Vite" >
-<img src="https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=Less&logoColor=white" alt="Less"/>
-<img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-
-**工具**
-
-<img src="https://img.shields.io/badge/Visual%20studio%20code-%230078d7.svg?logo=visual-studio-code&logoColor=white&style=flat-square" alt="Visual Studio Code" /> <img src="https://img.shields.io/badge/Github-%23000000.svg?logo=github&logoColor=white&style=flat-square" alt="Github" />
-<img src="https://img.shields.io/badge/Photoshop-%2331a8ff.svg?logo=adobe-photoshop&logoColor=white&style=flat-square" alt="Photoshop" />
-
-<br>
-</details>
-
-<details>
-<summary align="center"><b>看啥呢？</b></summary><br>
-<div align="center"><img src="https://user-images.githubusercontent.com/26431026/167385898-1fecf0ad-8560-4e31-bcf1-5df5ba2842f1.png"></div>
-</details>
