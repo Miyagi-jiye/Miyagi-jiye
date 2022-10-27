@@ -21,7 +21,7 @@
 <!-- 总体 -->
 <table style="width:100%;margin:0 auto" border="0">
     <tr>
-        <td style="width:50%;">
+        <td style="width:50%;vertical-align: top;">
           <!-- 左边 -->
           <b><p>关于我</p></b>
           <ul>
@@ -57,7 +57,7 @@
           <!-- 折叠栏 -->
           <details>
           <summary><b>我的信息</b></summary>
-          <div>测试内容</div>
+          <div align="center">测试内容</div>
           </details>
           <details>
           <br/>
@@ -67,7 +67,7 @@
           </details>
           <br/>
         </td>
-        <td style="width:50%">
+        <td style="width:50%;vertical-align: top;">
           <!-- 右边 -->
           <div style="display:flex;flex-direction:column;">
             <b><p>Github语言</p></b>
