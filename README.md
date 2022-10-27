@@ -18,7 +18,7 @@
 <table style="width:100%;margin:0 auto" border="0">
     <tr>
       <td align="center" colspan="2">
-        <img src="https://profile-counter.glitch.me/Miyagi-jiye/count.svg" />
+        <img src="https://count.getloli.com/get/@Miyagi-jiye" alt="https://count.getloli.com/" />
       </td>
     </tr>
     <tr>
@@ -72,15 +72,17 @@
             <img style="width:100%;border-radius:10px" src="https://github-readme-stats.vercel.app/api?username=Miyagi-jiye&show_icons=true&theme=buefy" />
             <b><p>Github Actions</p></b>
             <img style="width:100%;border-radius:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=Miyagi-jiye&theme=dark&hide_border=true" />
+            <br/>
+            <br/>
             <!-- 折叠栏 -->
-          <details>
-              <summary><b>个人简历</b></summary>
-              <div align="center">略...</div>
-          </details>
-          <details>
-              <summary><b>看啥呢？</b></summary>
-              <div align="center"><img src="https://user-images.githubusercontent.com/26431026/167385898-1fecf0ad-8560-4e31-bcf1-5df5ba2842f1.png"></div>
-          </details>
+              <details>
+                  <summary><b>个人简历</b></summary>
+                  <div align="center">略...</div>
+              </details>
+              <details>
+                  <summary><b>看啥呢？</b></summary>
+                  <div align="center"><img src="https://user-images.githubusercontent.com/26431026/167385898-1fecf0ad-8560-4e31-bcf1-5df5ba2842f1.png"></div>
+              </details>
           </div>
         </td>
     </tr>
