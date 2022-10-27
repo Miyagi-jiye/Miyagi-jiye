@@ -48,13 +48,15 @@
           <img src="https://img.shields.io/badge/Vite-%23000000.svg?logo=vite&logoColor=blue&style=flat-square" alt="Vite" >
           <img src="https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=Less&logoColor=white" alt="Less"/>
           <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white"/>
           <br/>
           <br/>
           <b><p>工具</p></b>
           <img src="https://img.shields.io/badge/Visual%20studio%20code-%230078d7.svg?logo=visual-studio-code&logoColor=white&style=flat-square" alt="Visual Studio Code" /> <img src="https://img.shields.io/badge/Github-%23000000.svg?logo=github&logoColor=white&style=flat-square" alt="Github" />
           <img src="https://img.shields.io/badge/Photoshop-%2331a8ff.svg?logo=adobe-photoshop&logoColor=white&style=flat-square" alt="Photoshop" />
-          <img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Edge-0C4F9B?style=flat-square&logo=Microsoft-edge&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Google_Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Microsoft_Edge-0C4F9B?style=flat-square&logo=Microsoft-edge&logoColor=white"/>
+          <img src="https://img.shields.io/badge/-Git-EF5032?style=flat-square&logo=git&logoColor=white"/>
           <br/>
           <br/>
           <!-- 折叠栏 -->
