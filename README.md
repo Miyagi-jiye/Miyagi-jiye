@@ -82,7 +82,9 @@
 </table>
 
 <b><p>Github 动态</p></b>
-<img style="width:100%;border-radius:10px" src="https://activity-graph.herokuapp.com/graph?username=Miyagi-jiye&theme=react-dark&hide_border=true&area=true" />
+<div style="width:100%;height:100%;border-radius:10px;oveflow:hidden;">
+<img style="width:100%;" src="https://activity-graph.herokuapp.com/graph?username=Miyagi-jiye&theme=react-dark&hide_border=true&area=true" />
+</div>
 
 <b><p>名言名句</p></b>
 <img style="width:100%;border-radius:10px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
