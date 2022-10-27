@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm miyagi-jiye 👋</h1>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=5000&center=true&width=1200&height=40&lines=%E4%BB%8E%E7%90%86%E8%AE%BA%E4%B8%8A%E8%AE%B2%EF%BC%8C%E7%90%86%E8%AE%BA%E5%92%8C%E5%AE%9E%E8%B7%B5%E4%B9%8B%E9%97%B4%E6%B2%A1%E6%9C%89%E5%8C%BA%E5%88%AB%E3%80%82%E4%BD%86%E5%9C%A8%E5%AE%9E%E8%B7%B5%E4%B8%AD%EF%BC%8C%E8%BF%99%E6%98%AF%E6%9C%89%E5%8C%BA%E5%88%AB%E7%9A%84%E3%80%82" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=5000&center=true&width=1200&height=40&lines=%E4%BB%8E%E7%90%86%E8%AE%BA%E4%B8%8A%E8%AE%B2%EF%BC%8C%E7%90%86%E8%AE%BA%E5%92%8C%E5%AE%9E%E8%B7%B5%E4%B9%8B%E9%97%B4%E6%B2%A1%E6%9C%89%E5%8C%BA%E5%88%AB%E3%80%82%E4%BD%86%E5%9C%A8%E5%AE%9E%E8%B7%B5%E4%B8%AD%EF%BC%8C%E8%BF%99%E6%98%AF%E6%9C%89%E5%8C%BA%E5%88%AB%E7%9A%84%E3%80%82" alt="Typing SVG" />
 
 <p align="center">
     <samp style="font-size:1.2rem;">
@@ -14,12 +12,15 @@
     <code> <a href="https://www.zhihu.com/"> <img style="border-radius:6px" height="40" src="https://user-images.githubusercontent.com/46062972/190096127-e3cadf80-6858-4ae4-981c-632246d7b82f.png"></a></code> &nbsp;
     <code> <a href="https://weibo.com/"> <img style="border-radius:6px" height="40" src="https://user-images.githubusercontent.com/46062972/190096532-03e4290e-b88d-49c1-acbb-99f700b3b7ed.png"></a></code> &nbsp;
     <code> <a href="https://space.bilibili.com/24772083"> <img height="40" src="https://user-images.githubusercontent.com/46062972/194840497-22835c48-f50b-483e-ad6c-98548d463944.png"></a></code> &nbsp;
-    <br/><br/>
-    <a href="https://alili.tech"><img style="border-radius:6px" src="https://profile-counter.glitch.me/Miyagi-jiye/count.svg" /></a>
 </p>
 
 <!-- 总体 -->
 <table style="width:100%;margin:0 auto" border="0">
+    <tr>
+      <td align="center" colspan="2">
+    <a href="https://alili.tech"><img style="border-radius:6px" src="https://profile-counter.glitch.me/Miyagi-jiye/count.svg" /></a>
+      </td>
+    </tr>
     <tr>
         <td style="width:50%;vertical-align: top;">
           <!-- 左边 -->
@@ -52,6 +53,8 @@
           <b><p>工具</p></b>
           <img src="https://img.shields.io/badge/Visual%20studio%20code-%230078d7.svg?logo=visual-studio-code&logoColor=white&style=flat-square" alt="Visual Studio Code" /> <img src="https://img.shields.io/badge/Github-%23000000.svg?logo=github&logoColor=white&style=flat-square" alt="Github" />
           <img src="https://img.shields.io/badge/Photoshop-%2331a8ff.svg?logo=adobe-photoshop&logoColor=white&style=flat-square" alt="Photoshop" />
+          <img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Edge-0C4F9B?style=flat-square&logo=Microsoft-edge&logoColor=white"/>
           <br/>
           <br/>
           <!-- 折叠栏 -->
@@ -82,9 +85,7 @@
 </table>
 
 <b><p>Github 动态</p></b>
-<div style="width:100%;height:100%;border-radius:10px;oveflow:hidden;">
 <img style="width:100%;" src="https://activity-graph.herokuapp.com/graph?username=Miyagi-jiye&theme=react-dark&hide_border=true&area=true" />
-</div>
 
 <b><p>名言名句</p></b>
 <img style="width:100%;border-radius:10px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
