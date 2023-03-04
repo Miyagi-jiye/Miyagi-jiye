@@ -88,10 +88,6 @@
     </tr>
 </table>
 
-<b><p>Github 动态</p></b>
-<img style="width:100%;" src="https://activity-graph.herokuapp.com/graph?username=Miyagi-jiye&theme=react-dark&hide_border=true&area=true" />
-
-
 
 <b><p>Github 奖杯</p></b>
 <img style="width:100%;border-radius:10px" src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=false" />
